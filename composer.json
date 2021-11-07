@@ -24,8 +24,8 @@
   },
   "autoload": {
     "psr-4": {
-      "cadot.info\\CrudBundle\\": "src",
-      "cadot.info\\CrudBundle\\Tests\\": "tests"
+      "cadotinfo\\CrudBundle\\": "src",
+      "cadotinfo\\CrudBundle\\Tests\\": "tests"
     }
   }
 }
