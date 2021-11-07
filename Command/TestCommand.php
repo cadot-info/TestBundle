@@ -1,6 +1,6 @@
 <?php
 
-namespace cadotinfo\CrudBundle\Command;
+namespace Tuto\TestBundle\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -35,7 +35,7 @@ class TestCommand extends Command
             // ...
         }
 
-        $io->success('You have a new aaaaaaaaaaaaao see your options.');
+        $io->success('Zorro');
 
         return Command::SUCCESS;
     }
