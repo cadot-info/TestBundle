@@ -24,8 +24,8 @@
   },
   "autoload": {
     "psr-4": {
-      "cadotinfo\\TestBundle\\": "src",
-      "cadotinfo\\TestBundle\\Tests\\": "tests"
+      "Tuto\\TestBundle\\": "src",
+      "Tuto\\TestBundle\\Tests\\": "tests"
     }
   }
 }
