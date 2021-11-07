@@ -1,5 +1,5 @@
 {
-  "name": "cadot.info/crudbundle",
+  "name": "cadot.info/testbundle",
   "type": "symfony-bundle",
   "license": "MIT",
   "minimum-stability": "stable",
@@ -24,8 +24,8 @@
   },
   "autoload": {
     "psr-4": {
-      "cadotinfo\\CrudBundle\\": "src",
-      "cadotinfo\\CrudBundle\\Tests\\": "tests"
+      "cadotinfo\\TestBundle\\": "src",
+      "cadotinfo\\TestBundle\\Tests\\": "tests"
     }
   }
 }
